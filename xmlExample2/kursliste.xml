@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="kursliste.xslt"?>
+<kursprogramm>
+	<schule>
+		<name>BBB</name>
+		<ort>Berlin</ort>
+	</schule>
+	<kurs name="XML-Grundlagen" dauer="2 Tage">
+		<referent>Hans Fromm</referent>
+		<termin>12.11.2019</termin>
+		<beschreibung>Einführungsseminar für Programmierer, IT-Manager und Contentmanager</beschreibung>
+	</kurs>
+	<kurs name="XSL-Praxis" dauer="5 Tage">
+		<referent>Bodo Klare</referent>
+		<termin>10.10.2019</termin>
+		<beschreibung>Praktische Übungen für Programmierer und Contentmanager</beschreibung>
+	</kurs>
+	<kurs name="XSLT-Einstieg" dauer="2 Tage">
+		<referent>Hanna Horn</referent>
+		<termin>12.03.2019</termin>
+		<beschreibung>Einführung in die Transformation von XML-Dokumenten für Programmierer und Contentmanager		
+		</beschreibung>
+	</kurs>
+</kursprogramm>
